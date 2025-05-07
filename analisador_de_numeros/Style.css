@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-color: rgb(217, 233, 202);
+    
+    
+}
+header, section{
+    width: 500px;
+    margin: auto;
+    margin-top: 50px;
+}
+
+input{
+    padding: 8px;
+    border-radius: 5px;
+    color:indianred;
+    font-size: large;
+}
+
+button{
+    background-color: rgb(43, 206, 43);
+    border-style: none;
+    border-radius: 5px;
+}
+
